@@ -1,0 +1,26 @@
+body{
+  background-color: cadetblue;
+}
+
+h5{
+    color: rgb(255, 145, 0);
+    font-size: 25px; 
+}
+
+h4{
+    color: rgb(255, 145, 0);
+    font-size: 25px;
+}
+
+li{
+    color: rgb(255, 145, 0);
+    font-size: 35px;
+}
+
+ol{
+    background-color: grey;
+}
+
+span{
+    color: lawngreen;
+}
